@@ -8,7 +8,8 @@ let users = [
   { id: 1, name: "Luis" },
   { id: 2, name: "Liseht" },
   { id: 3, name: "Luna" },
-  { id: 4, name: "Lusi" }
+  { id: 4, name: "Lusi" },
+  { id: 5, name: "Idat" }
 ];
 
 // GET
